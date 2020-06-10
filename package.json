@@ -4,6 +4,7 @@
   "description": "fizz buzz program",
   "main": "fizzbuzz.js",
   "scripts": {
+    "start": "node fizzbuzz.js",
     "test": "nyc mocha && nyc report --reporter=text-lcov | coveralls"
   },
   "author": "Eva Maina",
