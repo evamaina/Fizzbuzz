@@ -1,0 +1,14 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "fizz buzz program",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Eva Maina",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^7.2.0"
+  }
+}
