@@ -6,7 +6,16 @@
 
 A FizzBuzz Generator written in Javascript
 
-# How to test
+## How to run the app
 
 Ensure you have nodejs >= 10 installed
+
+git clone `https://github.com/evamaina/Fizzbuzz`
+
+Run `npm install'
+
+Run `node fizzbuzz.js`
+
+## How to test
+
 Run `npm test`
